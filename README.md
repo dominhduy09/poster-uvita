@@ -185,31 +185,31 @@ Use of Artificial Intelligence (AI):
 - Copilot
 - Gemini (google.com)
 
-NASA Data
-The Sun
-News Notification
-Ultraviolet Waves
-UV Index
+NASA Data:
+- The Sun: https://science.nasa.gov/gallery/the-sun/
+- News Notification: https://science.data.nasa.gov/news/
+- Ultraviolet Waves: https://science.nasa.gov/ems/10_ultravioletwaves/
+- UV Index: https://neo.gsfc.nasa.gov/view.php?datasetId=AURA_UVI_CLIM_M
 
-Space Agency Partner & Other Data
-ML8511 UV Sensor Manual
-ML8511 UV Sensor Library
-ML8511 UV Sensor UVI Formula Calculation
-SparkFun TSL2561 Light Sensor 
-Joba Tsl2561 Usage
-Adafruit TSL2561 Driver
-Adafruit TSL2561 Datasheet
-HC-05 -Bluetooth to Serial Port Module 
-nRF52832 Bluetooth Chipset
-E104-BT5032A/B Bluetooth Module Manual
-Arduino Pro Mini Docs
-Arduino Pro Mini Source Hardware
-Arduino Pro Mini Tutorial
-Arduino Pro Mini Reference
-ATmega328P
-USB IC - FTDI Datasheet
-USB IC - FTDI Products Reference
-3.3V Buck-Boost Switching Voltage Regulators Reference
-Battery Pho Broth Reference Collection
-UV Index Scale
+Space Agency Partner & Other Data: 
+- ML8511 UV Sensor Manual: https://www.digikey.com/htmldatasheets/production/1342229/0/0/1/ml8511-datasheet.html?msockid=2ddb54504ade65d7064e40a34bcc643c
+- ML8511 UV Sensor Library: https://github.com/RobTillaart/ML8511
+- ML8511 UV Sensor UVI Formula Calculation: https://cdn.sparkfun.com/assets/learn_tutorials/2/0/6/ML8511_UV.pdf#:~:text=Calculation%20of%20the%20actual%20UV%20Index%20from%20Vout%20of%20ML8511
+- SparkFun TSL2561 Light Sensor: https://github.com/sparkfun/SparkFun_TSL2561_Arduino_Library
+- Joba Tsl2561 Usage: https://github.com/joba-1/Joba_Tsl2561
+- Adafruit TSL2561 Driver: https://github.com/adafruit/Adafruit_TSL2561
+- Adafruit TSL2561 Datasheet: https://cdn-shop.adafruit.com/datasheets/TSL2561.pdf#:~:text=The%20TSL2560%20and%20TSL2561%20are%20light-to-digital%20converters%20that%20transform%20light
+- HC-05 -Bluetooth to Serial Port Module: https://components101.com/sites/default/files/component_datasheet/HC-05%20Datasheet.pdf
+- nRF52832 Bluetooth Chipset: https://docs.nordicsemi.com/category/nRF52832-category
+- E104-BT5032A/B Bluetooth Module Manual: https://www.bing.com/ck/a?!&amp;&amp;p=0fbac393fb639f3eJmltdHM9MTcyODA4NjQwMCZpZ3VpZD0yZGRiNTQ1MC00YWRlLTY1ZDctMDY0ZS00MGEzNGJjYzY0M2MmaW5zaWQ9NTE4NA&amp;ptn=3&amp;ver=2&amp;hsh=3&amp;fclid=2ddb5450-4ade-65d7-064e-40a34bcc643c&amp;psq=E104-BT5032A%2fB+User+Manua&amp;u=a1aHR0cHM6Ly93d3cubWFudWFsc2xpYi5jb20vbWFudWFsLzM0MzQ2MTUvRWJ5dGUtRTEwNC1CdDUwMzJhLUIuaHRtbCM6fjp0ZXh0PVZpZXcgYW5kIERvd25sb2FkIEVieXRlIEUxMDQtQlQ1MDMyQS9CIHVzZXIgbWFudWFsIG9ubGluZS4gblJGNTI4MzIgQkxFNS4w&amp;ntb=1
+- Arduino Pro Mini Docs: https://docs.arduino.cc/retired/boards/arduino-pro-mini/
+- Arduino Pro Mini Source Hardware: https://www.arduino.cc/en/uploads/Main/Arduino-Pro-Mini-schematic.pdf
+- Arduino Pro Mini Tutorial: https://docs.arduino.cc/tutorials/
+- Arduino Pro Mini Reference: https://www.arduino.cc/reference/en/
+- ATmega328P: https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf#:~:text=ATmega328P%20[DATASHEET]%207810D%E2%80%93AVR%E2%80%9301/15%206%202.%20Overview%20The%20Atmel%C2%AE%20ATmega328P%20is
+- USB IC - FTDI Datasheet: https://ftdichip.com/document/usb-ic-data-sheets/#:~:text=USB%20IC%20Data%20Sheets.%20The%20documents%20listed%20below%20are%20the
+- USB IC - FTDI Products Reference: https://ftdichip.com/product-category/products/
+- 3.3V Buck-Boost Switching Voltage Regulators Reference: https://www.mouser.vn/c/semiconductors/power-management-ics/voltage-regulators-voltage-controllers/switching-voltage-regulators/?output%20voltage=3.3%20V&amp;topology=Buck-Boost
+- Battery Pho Broth Reference Collection: https://drive.google.com/drive/folders/1Op4Flf33sUin_Ei8tsdRmzzRxbZx5DL1?usp=sharing
+- UV Index Scale: https://www.epa.gov/sunsafety/uv-index-scale-0
 
