@@ -175,3 +175,41 @@ Through UVita, we aim to revolutionize the way individuals interact with sun saf
 NASA serves as a vital source of scientific data, providing information on space, climate, and natural disasters. Additionally, NASA collaborates with government agencies to disseminate public health knowledge and issue early warnings for impending natural disasters. This system plays a crucial role in delivering timely and accurate information, supporting disaster preparedness and response efforts, while also raising awareness about public health initiatives and the proactive approach helps enhancing their ability to respond to emergencies and make well-informed decisions.
 
 Our process:
+
+- Testing process: https://drive.google.com/drive/folders/1WsSk5XxNmezuu-OPdTZe5hIzjfwvgnR-
+- Designing process: https://drive.google.com/drive/folders/13GcpQmWxGkk2z6cEiOxGMFCT5gkiB5U2
+
+Use of Artificial Intelligence (AI):
+- Blackbox Ai (www.blackbox.ai)
+- ChatGPT
+- Copilot
+- Gemini (google.com)
+
+NASA Data
+The Sun
+News Notification
+Ultraviolet Waves
+UV Index
+
+Space Agency Partner & Other Data
+ML8511 UV Sensor Manual
+ML8511 UV Sensor Library
+ML8511 UV Sensor UVI Formula Calculation
+SparkFun TSL2561 Light Sensor 
+Joba Tsl2561 Usage
+Adafruit TSL2561 Driver
+Adafruit TSL2561 Datasheet
+HC-05 -Bluetooth to Serial Port Module 
+nRF52832 Bluetooth Chipset
+E104-BT5032A/B Bluetooth Module Manual
+Arduino Pro Mini Docs
+Arduino Pro Mini Source Hardware
+Arduino Pro Mini Tutorial
+Arduino Pro Mini Reference
+ATmega328P
+USB IC - FTDI Datasheet
+USB IC - FTDI Products Reference
+3.3V Buck-Boost Switching Voltage Regulators Reference
+Battery Pho Broth Reference Collection
+UV Index Scale
+
