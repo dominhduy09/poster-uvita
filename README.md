@@ -48,3 +48,22 @@ Faculty of Physics and Engineering Physics, University of Science, VNUHCM; Infor
 Corresponding author: pththuy@hcmus.edu.vn 
 
 ![Screenshot 2025-05-25 115952](https://github.com/user-attachments/assets/883a06fe-ae5c-4e7f-883b-abc017f058ce)
+
+Sources:
+- https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/pho-broth/?tab=project
+- https://github.com/flexity1210/UVita
+
+# UVita - Solution for Health and Innovation
+
+# UVita
+
+## Project Summary
+We developed an innovative application that displays the UV index in real time, utilizing data collected from UV-measuring phone cases equipped with integrated UV and light sensors. With the low awareness of the harmful effects of UV radiation on skin health, individuals often lack access to immediate and accurate information about UV exposure levels. Our project aims to bridge this gap by providing users with real-time UV index data directly on their smartphones, enabling informed decisions about sun protection. This application is crucial for promoting public health by helping users avoid excessive UV exposure, which can lead to skin damage and increased risk of skin cancer. By integrating IoT technology with a user-friendly app, we empower individuals to take proactive measures to safeguard their skin while enjoying outdoor activities.
+
+## Project Demonstration
+[Canva Presentation](https://www.canva.com/design/DAGSfRo2qZY/CM14lnt8c7Gg3A5XrXgr1g/edit?utm_content=DAGSfRo2qZY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton)
+
+## Project
+[GitHub Repository](https://github.com/Phong12HexDockwork/UVita/tree/main)
+
+## Project Details
